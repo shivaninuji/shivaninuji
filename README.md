@@ -3,8 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivani-n-331764227ji)
-
+<a href="https://www.linkedin.com/in/shivani-n-331764227ji">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
