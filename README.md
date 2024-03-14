@@ -37,7 +37,10 @@
   <a href="https://icon-sets.iconify.design/devicon/canva/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
   </a>
- <iconify-icon icon="devicon:vscode" width="40" height="40"></iconify-icon>
+ <a href="https://icon-sets.iconify.design/vscode-icons/file-type-vscode3/" target="_blank" rel="noreferrer">
+ 
+</a>
+
 
 
 </p>
