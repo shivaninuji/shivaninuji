@@ -15,7 +15,10 @@
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/> 
 </a><a href="https://icon-sets.iconify.design/simple-icons/phpmyadmin/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpMyAdmin" width="40" height="40"/> 
+</a><a href="https://icon-sets.iconify.design/devicon/canva/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/> 
 </a>
+
 
 
 
