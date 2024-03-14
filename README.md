@@ -13,7 +13,14 @@
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/> 
 </a> <a href="https://icon-sets.iconify.design/simple-icons/mysql/">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/> 
+</a><a href="https://icon-sets.iconify.design/simple-icons/phpmyadmin/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpMyAdmin" width="40" height="40"/> 
 </a>
+<a href="https://icon-sets.iconify.design/logos/xampp/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/apache_friends/apache_friends-icon.svg" alt="XAMPP" width="40" height="40"/> 
+</a>
+
+
 </p>
 
 
