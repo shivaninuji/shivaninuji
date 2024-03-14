@@ -17,9 +17,10 @@
   <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpMyAdmin" width="40" height="40"/> 
 </a><a href="https://icon-sets.iconify.design/devicon/canva/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/> 
-</a><a href="https://icon-sets.iconify.design/skill-icons/vscode-dark/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/visualstudiocode_icon_136036.png" alt="VSCode Dark" width="40" height="40"/> 
+</a><a href="https://icon-sets.iconify.design/devicon/vscode/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/visualstudiocode_icon_136036.png" alt="VSCode" width="40" height="40"/> 
 </a>
+
 
 
 
