@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivani</h1>
+<h1 align="center">Hey 👋, I'm Shivani</h1>
 <h3 align="center">I'm a passionate developer based in India, constantly fueled by the curiosity to explore new tech stacks. Currently pursuing B.E in Computer Science. With a strong foundation and a hunger for learning, I'm excited to embark on this coding adventure! 🚀</h3>
 
 <h3 align="left">Connect with me:</h3>
