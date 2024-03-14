@@ -38,7 +38,8 @@
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
   </a>
  <a href="https://icon-sets.iconify.design/vscode-icons/file-type-vscode3/" target="_blank" rel="noreferrer">
- 
+ <img src="https://icon-sets.iconify.design/vscode-icons/file-type-vscode3/vscode.svg" alt="VSCode" width="40" height="40"/>
+
 </a>
 
 
