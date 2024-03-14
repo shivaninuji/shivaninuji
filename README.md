@@ -37,9 +37,8 @@
   <a href="https://icon-sets.iconify.design/devicon/canva/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
   </a>
- <a href="https://icon-sets.iconify.design/skill-icons/vscode-dark/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/visualstudiocode_icon_136036.png" alt="VSCode Dark" width="40" height="40"/> 
-</a>
+ <iconify-icon icon="devicon:vscode" width="40" height="40"></iconify-icon>
+
 
 </p>
 
