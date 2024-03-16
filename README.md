@@ -17,7 +17,9 @@
    <img src="https://skillicons.dev/icons?i=mysql" width="30" alt="MySql">
    <img src="https://skillicons.dev/icons?i=vscode" width="30" alt="Visual Studio Code">
    <img src="https://skillicons.dev/icons?i=git" width="30" alt="Git">
+   <img src="https://iconscout.com/free-icon/canva-3823975" width="30" alt="Canva">
    <img src="https://skillicons.dev/icons?i=vercel" width="30" alt="Vercel">
+   
   
 </div>
 
