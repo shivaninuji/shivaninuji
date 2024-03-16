@@ -14,10 +14,11 @@
    <img src="https://skillicons.dev/icons?i=css" width="30" alt="CSS">
    <img src="https://skillicons.dev/icons?i=c" width="30" alt="C">
    <img src="https://skillicons.dev/icons?i=py" width="30" alt="Python">
+   <img src="https://skillicons.dev/icons?i=mysql" width="30" alt="MySql">
    <img src="https://skillicons.dev/icons?i=vscode" width="30" alt="Visual Studio Code">
    <img src="https://skillicons.dev/icons?i=git" width="30" alt="Git">
    <img src="https://skillicons.dev/icons?i=vercel" width="30" alt="Vercel">
-  <img src="https://skillicons.dev/icons?i=canva" width="30" alt="Canva">
+  
 </div>
 
 
