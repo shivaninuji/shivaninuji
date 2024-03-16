@@ -1,13 +1,13 @@
 # Hey 👋, I'm Shivani
 
 ### I'm a passionate student based in India, constantly fueled by the curiosity to explore new tech stacks. <br><br>Currently pursuing B.E in Computer Science.<br><br> With a strong foundation and a hunger for learning, I'm excited to embark on this coding adventure! 🚀
-<br><br>
+<br>
 
 ## Connect with me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shivani-n-331764227ji) <br>
 
-<br><br>
+<br>
 <h2 align="left">Languages and Tools:</h2>
 <div>
    <img src="https://skillicons.dev/icons?i=html" width="30" alt="HTML">
