@@ -5,11 +5,10 @@
 
 ## Connect with me:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shivani-n-331764227ji) 
-[![LeetCode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/u/shivaninuji/) 
-
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/shivani-n-331764227ji" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=13930&format=png" alt="shivaninuji" height="40" width="40" /></a>
+  <a href="https://leetcode.com/shivaninuji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="shivaninuji" height="40" width="40" /></a>
+ </p>
 
 <br>
 <h2 align="left">Languages and Tools:</h2>
