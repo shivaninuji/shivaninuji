@@ -6,6 +6,7 @@
 ## Connect with me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shivani-n-331764227ji) <br>
+[![leetcode](https://leetcode.com/u/shivaninuji/) <br>
 
 <br>
 <h2 align="left">Languages and Tools:</h2>
