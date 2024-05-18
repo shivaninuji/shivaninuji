@@ -5,8 +5,10 @@
 
 ## Connect with me:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shivani-n-331764227ji) <br>
-<a href="https://leetcode.com/u/shivaninuji/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="shivaninuji" height="50" width="45" /></a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shivani-n-331764227ji) 
+<a href="https://leetcode.com/shivaninuji">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="shivaninuji">
+</a>
 
 <br>
 <h2 align="left">Languages and Tools:</h2>
