@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/shivani-n-331764227ji" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=13930&format=png" alt="shivaninuji" height="50" width="50" /></a>
   <a href="https://leetcode.com/shivaninuji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="shivaninuji" height="50" width="50" /></a>
  </p>
-
 <br>
 <h2 align="left">Languages and Tools:</h2>
 <div>
