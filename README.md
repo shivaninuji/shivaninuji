@@ -14,12 +14,18 @@
 <div>
    <img src="https://skillicons.dev/icons?i=html" width="30" alt="HTML">
    <img src="https://skillicons.dev/icons?i=css" width="30" alt="CSS">
+   <img  src="https://skillicons.dev/icons?i=js" width="30" alt="JavaScript">
    <img src="https://skillicons.dev/icons?i=c" width="30" alt="C">
    <img src="https://skillicons.dev/icons?i=py" width="30" alt="Python">
    <img src="https://skillicons.dev/icons?i=mysql" width="30" alt="MySql">
+   <img src="https://skillicons.dev/icons?i=supabase" width="30" alt="Supabase">
+   <img src="https://skillicons.dev/icons?i=cypress" width="30" alt="Cypress">
    <img src="https://skillicons.dev/icons?i=vscode" width="30" alt="Visual Studio Code">
    <img src="https://skillicons.dev/icons?i=git" width="30" alt="Git">
    <img src="https://skillicons.dev/icons?i=vercel" width="30" alt="Vercel">
+  
+        <
+       
    
   
 </div>
