@@ -24,7 +24,7 @@
    <img src="https://skillicons.dev/icons?i=git" width="30" alt="Git">
    <img src="https://skillicons.dev/icons?i=vercel" width="30" alt="Vercel">
   
-        <
+      
        
    
   
