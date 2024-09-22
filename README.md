@@ -15,6 +15,7 @@
    <img src="https://skillicons.dev/icons?i=css" width="30" alt="CSS">
    <img  src="https://skillicons.dev/icons?i=js" width="30" alt="JavaScript">
    <img src="https://skillicons.dev/icons?i=c" width="30" alt="C">
+  <img src="https://skillicons.dev/icons?i=py" width="30" alt="Java">
    <img src="https://skillicons.dev/icons?i=py" width="30" alt="Python">
    <img src="https://skillicons.dev/icons?i=mysql" width="30" alt="MySql">
    <img src="https://skillicons.dev/icons?i=cypress" width="30" alt="Cypress">
