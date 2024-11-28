@@ -4,7 +4,6 @@
 <br>
 
 ## Connect with me:
-
 <p align="left">
   <a href="https://www.linkedin.com/in/shivani-n-331764227ji" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=13930&format=png" alt="shivaninuji" height="50" width="50" /></a>
  </p>
@@ -13,7 +12,6 @@
 <div>
    <img src="https://skillicons.dev/icons?i=html" width="30" alt="HTML">
    <img src="https://skillicons.dev/icons?i=css" width="30" alt="CSS">
-   <img  src="https://skillicons.dev/icons?i=js" width="30" alt="JavaScript">
    <img src="https://skillicons.dev/icons?i=c" width="30" alt="C">
   <img src="https://skillicons.dev/icons?i=java" width="30" alt="Java">
    <img src="https://skillicons.dev/icons?i=py" width="30" alt="Python">
@@ -25,6 +23,9 @@
    <img src="https://skillicons.dev/icons?i=figma" width="30" alt="Figma">
    <img src="https://skillicons.dev/icons?i=git" width="30" alt="Git">
    <img src="https://skillicons.dev/icons?i=vercel" width="30" alt="Vercel">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="30" alt="Notion">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png" width="30" alt="Canva">
+
   
       
        
