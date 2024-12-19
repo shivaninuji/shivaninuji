@@ -23,4 +23,4 @@
   ![Figma](https://img.shields.io/badge/-Figma-000000?logo=figma&logoColor=fff)  ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=fff)  ![Canva](https://img.shields.io/badge/-Canva-000000?logo=canva&logoColor=fff)
 
 ### Contact 📬  
-- **LinkedIn:** [@shivaninuji](www.linkedin.com/in/shivani-n-331764227ji)
+- **LinkedIn:** [@shivaninuji](https://www.linkedin.com/in/shivani-n-331764227ji)
