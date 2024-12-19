@@ -1,7 +1,7 @@
-# Hey, I'm Shivaninuji 👋
+# Hey, I'm Shivani Nuji 👋
 
 ### About Me 🤖  
-- I'm a Computer Science and Engineering student, building stuff that (hopefully) works  
+- I'm a Computer Science & Engineering student, building stuff that (hopefully) works  
 - Currently lost in the world of **AI** — let's see where it takes me  
 - When I'm not coding, you'll probably find me playing the piano and learning random facts or anything that I find interesting  
 - Looking to collaborate on projects that sound cool and fun
@@ -23,4 +23,4 @@
   ![Figma](https://img.shields.io/badge/-Figma-000000?logo=figma&logoColor=fff)  ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=fff)  ![Canva](https://img.shields.io/badge/-Canva-000000?logo=canva&logoColor=fff)
 
 ### Contact 📬  
-- **LinkedIn:** [@shivaninuji](https://linkedin.com/in/shivaninuji)
+- **LinkedIn:** [@shivaninuji](www.linkedin.com/in/shivani-n-331764227ji)
