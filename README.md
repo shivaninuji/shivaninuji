@@ -1,5 +1,7 @@
 # Hey, I'm Shivani Nuji 👋
 
+## <pre align = "center">Glad to see you here! </pre>
+
 ### About Me 🤖  
 - I'm a Computer Science & Engineering student, building stuff that (hopefully) works  
 - Currently lost in the world of **AI** — let's see where it takes me  
@@ -24,3 +26,6 @@
 
 ### Contact 📬  
 - **LinkedIn:** [@shivaninuji](https://www.linkedin.com/in/shivani-n-331764227ji)
+
+### And yes! Don't forget to sneak into my portfolio xD
+<a href ="https://www.shivaninuji.in">CLIIICKKKK HEREEEEEEEE!!!</a>
