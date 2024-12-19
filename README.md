@@ -3,7 +3,7 @@
 ### About Me 🤖  
 - I'm a Computer Science & Engineering student, building stuff that (hopefully) works  
 - Currently lost in the world of **AI** — let's see where it takes me  
-- When I'm not coding, you'll probably find me playing the piano and learning random facts or anything that I find interesting  
+- When I'm not coding, you'll probably find me playing the piano and learning random facts or diving deep into anything that I find interesting  
 - Looking to collaborate on projects that sound cool and fun
 
 ### Tech Skills 💻  
