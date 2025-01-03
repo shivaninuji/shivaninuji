@@ -19,7 +19,7 @@
 
 - **Tools I Use:** 
 
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=fff)  ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)  ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0C?logo=jupyter&logoColor=fff) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)  ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)  ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0C?logo=jupyter&logoColor=fff) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 
 ### Interests 🎨  
   ![Figma](https://img.shields.io/badge/-Figma-000000?logo=figma&logoColor=fff)  ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=fff)  ![Canva](https://img.shields.io/badge/-Canva-000000?logo=canva&logoColor=fff)
